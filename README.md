@@ -6,7 +6,7 @@ A responsive front-end e-commerce website built with **HTML, CSS, and JavaScript
 
 ## 🌐 Live Demo
 Live Website:
-`https://ishakadian021.github.io/ShopEase-Ecommerce/`
+`https://ishakadian021-ux.github.io/ShopEase-Ecommerce/`
 
 ## ✨ Features
 - Responsive navigation
